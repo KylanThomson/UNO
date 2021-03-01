@@ -14,32 +14,32 @@ UNO is an SSO platform that allows users to interact with an ecosystem of applic
 # 3. Saas #1
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| DeskCloud | All apps quick access desk| 
-| MyContact | Stage 1: General Contact / Stage 2: Email Marketing| 
-| MyTasks | Task Assignment Management| 
-| MyMeet | Virtual Meetings, small, simple| 
-| MyWhiteboard | Virtual Meetings, Large, more tools| 
-| MyFolder | File and folder| 
-| MySignatures | Signatures| 
+| [DeskCloud](https://github.com/KylanThomson/DeskCloud) | All apps quick access desk| 
+| [MyContact](https://github.com/KylanThomson/MyContact) | Stage 1: General Contact / Stage 2: Email Marketing| 
+| [MyTasks](https://github.com/KylanThomson/MyTasks) | Task Assignment Management| 
+| [MyMeet](https://github.com/KylanThomson/MyMeet) | Virtual Meetings, small, simple| 
+| [MyWhiteboard](https://github.com/KylanThomson/MyWhiteboard) | Virtual Meetings, Large, more tools| 
+| [MyFolder](https://github.com/KylanThomson/MyFolder) | File and folder| 
+| [MySignatures](https://github.com/KylanThomson/MySignatures) | Signatures| 
 
 # 4. Saas #2
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| centralCRM | Customer relationship management| 
-| BooksCloud | bookkeeping| 
-| MyInvoice | Create, send, recieve, pay, invoice. Internal API for: booksCloud, and WalletCloud| 
+| [centralCRM](https://github.com/KylanThomson/centralCRM) | Customer relationship management| 
+| [BooksCloud](https://github.com/KylanThomson/BooksCloud) | bookkeeping| 
+| [MyInvoice](https://github.com/KylanThomson/MyInvoice) | Create, send, recieve, pay, invoice. Internal API for: booksCloud, and WalletCloud| 
 
 # 5. Saas #3
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| MyRetail | Retail management| 
+| [MyRetail](https://github.com/KylanThomson/MyRetail) | Retail management| 
 
 # 6. GIG
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| MyForce | Gig, construction. API: AutoDesk| 
+| [MyForce](https://github.com/KylanThomson/MyForce) | Gig, construction. API: AutoDesk| 
 
 # 7. Fintech
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| WalletCloud | Payment and payout methods. API with Stirpe/Paypal/Plaid| 
+| [WalletCloud]() | Payment and payout methods. API with Stirpe/Paypal/Plaid | 
