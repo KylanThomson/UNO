@@ -4,7 +4,7 @@ UNO is an SSO platform that allows users to interact with an ecosystem of applic
 # 1. Cyber + Security
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| CyberFirst | User access, policy, logs | 
+| [CyberFirst](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
 
 # 2. Paas - Iaas
 | App Name      | Description   | 
