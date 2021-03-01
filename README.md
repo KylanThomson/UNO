@@ -25,7 +25,7 @@ UNO is an SSO platform that allows users to interact with an ecosystem of applic
 ## 4. Saas #2
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| [CentralCRM](https://github.com/KylanThomson/centralCRM) | Customer relationship management| 
+| [CentralCRM](https://github.com/KylanThomson/CentralCRM) | Customer relationship management| 
 | [BooksCloud](https://github.com/KylanThomson/BooksCloud) | bookkeeping| 
 | [MyInvoice](https://github.com/KylanThomson/MyInvoice) | Create, send, recieve, pay, invoice. Internal API for: booksCloud, and WalletCloud| 
 
@@ -44,4 +44,5 @@ UNO is an SSO platform that allows users to interact with an ecosystem of applic
 | ------------- | ------------- | 
 | [WalletCloud](https://github.com/KylanThomson/WalletCloud) | Payment and payout methods. API with Stirpe/Paypal/Plaid | 
 
+[Tasks](https://trello.com/b/Fr5kX9Tw/uno-stage-1)
 [Timesheet](https://docs.google.com/spreadsheets/d/1KVrC4vcK2uRZ8MH8t7Wh9eKomcEXaPVqrJrL9MUeFaU/edit?usp=sharing)
