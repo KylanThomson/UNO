@@ -44,5 +44,6 @@ UNO is an SSO platform that allows users to interact with an ecosystem of applic
 | ------------- | ------------- | 
 | [WalletCloud](https://github.com/KylanThomson/WalletCloud) | Payment and payout methods. API with Stirpe/Paypal/Plaid | 
 
-[Tasks](https://trello.com/b/Fr5kX9Tw/uno-stage-1)
-[Timesheet](https://docs.google.com/spreadsheets/d/1KVrC4vcK2uRZ8MH8t7Wh9eKomcEXaPVqrJrL9MUeFaU/edit?usp=sharing)
+## [Tasks](https://trello.com/b/Fr5kX9Tw/uno-stage-1)
+
+## [Timesheet](https://docs.google.com/spreadsheets/d/1KVrC4vcK2uRZ8MH8t7Wh9eKomcEXaPVqrJrL9MUeFaU/edit?usp=sharing)
