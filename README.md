@@ -11,7 +11,7 @@ Research and develop project speicifiactions for MySSO.
 ## 1. Cyber + Security
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| [CyberFirst Project Specifications](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
+| [CyberFirst](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
 
 ## 2. Paas - Iaas
 | App Name      | Description   | 
