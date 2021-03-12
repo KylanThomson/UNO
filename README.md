@@ -3,14 +3,13 @@ UNO is an SSO cloud based platform that allows users to interact with an ecosyst
 
 All tasks outlined in Stage 1 are critical to the building and maintenance of all other objectives in the further development of UNO.
 
-## Task 1 [SS0]:
-Research and develop project speicifiactions for MySSO. 
-## [SSO Research](https://docs.google.com/document/d/1i3Io6HRB7K2qDyiCBwFXmHUowuixNDKtBnJ0yr_0sVs/edit?usp=sharing)
-## [SSO Project Specifications](https://docs.google.com/document/d/1p4lYcWqcbbwOlDMcpql1CSjIOh3Y_S05kZ7cXscxoco/edit?usp=sharing)
 
 ## 1. Cyber + Security
+
 | App Name      | Description   | 
 | ------------- | ------------- | 
+| 
+[SSO Project Specifications](https://docs.google.com/document/d/1p4lYcWqcbbwOlDMcpql1CSjIOh3Y_S05kZ7cXscxoco/edit?usp=sharing) | ----|
 | [CyberFirst](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
 
 ## 2. Paas - Iaas
