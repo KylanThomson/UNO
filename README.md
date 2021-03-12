@@ -1,10 +1,17 @@
-# UNO
-UNO is an SSO platform that allows users to interact with an ecosystem of applications that serve a variety of different enterprise-level needs that can be broken up into seven different verticals:
+# UNO STAGE 1:
+UNO is an SSO cloud based platform that allows users to interact with an ecosystem of applications that serve a variety of different enterprise-level needs that can be broken up into seven different verticals; Cyber + Security, Paas - Iaas, Saas #1, Saas #2, Saas #3, Gig, Fintech.
+
+All tasks outlined in Stage 1 are critical to the building and maintenance of all other objectives in the further development of UNO.
+
+## Task 1 [SS0]:
+Research and develop project speicifiactions for MySSO. 
+## [SSO Research](https://docs.google.com/document/d/1i3Io6HRB7K2qDyiCBwFXmHUowuixNDKtBnJ0yr_0sVs/edit?usp=sharing)
+## [SSO Project Specifications](https://docs.google.com/document/d/1p4lYcWqcbbwOlDMcpql1CSjIOh3Y_S05kZ7cXscxoco/edit?usp=sharing)
 
 ## 1. Cyber + Security
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| [CyberFirst](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
+| [CyberFirst Project Specifications](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
 
 ## 2. Paas - Iaas
 | App Name      | Description   | 
@@ -43,8 +50,6 @@ UNO is an SSO platform that allows users to interact with an ecosystem of applic
 | App Name      | Description   | 
 | ------------- | ------------- | 
 | [WalletCloud](https://github.com/KylanThomson/WalletCloud) | Payment and payout methods. API with Stirpe/Paypal/Plaid | 
-
-## [SSO Notes](https://docs.google.com/document/d/1i3Io6HRB7K2qDyiCBwFXmHUowuixNDKtBnJ0yr_0sVs/edit?usp=sharing)
 
 ## [Tasks](https://trello.com/b/Fr5kX9Tw/uno-stage-1)
 
