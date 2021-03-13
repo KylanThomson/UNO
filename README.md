@@ -8,7 +8,7 @@ All tasks outlined in Stage 1 are critical to the building and maintenance of al
 
 | App Name      | Description   | 
 | ------------- | ------------- | 
-| [MySSO](https://github.com/KylanThomson/MySSO/settings/access | SSO Configuration |
+| [MySSO](https://github.com/KylanThomson/MySSO) | SSO Configuration |
 | [CyberFirst](https://github.com/KylanThomson/CyberFirst) | User access, policy, logs | 
 
 ## 2. Paas - Iaas
