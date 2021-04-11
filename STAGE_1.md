@@ -16,7 +16,7 @@ All tasks outlined in Stage 1 are critical to the building and maintenance of al
 | ------------- | ------------- | 
 | - | - | 
 
-## 3. Saas #1
+## 3. Saas #1 - Collaboration
 | App Name      | Description   | 
 | ------------- | ------------- | 
 | [DeskCloud](https://github.com/KylanThomson/DeskCloud) | All apps quick access desk| 
@@ -27,14 +27,14 @@ All tasks outlined in Stage 1 are critical to the building and maintenance of al
 | [MyFolder](https://github.com/KylanThomson/MyFolder) | File and folder| 
 | [MySignatures](https://github.com/KylanThomson/MySignatures) | Signatures| 
 
-## 4. Saas #2
+## 4. Saas #2 Management
 | App Name      | Description   | 
 | ------------- | ------------- | 
 | [CentralCRM](https://github.com/KylanThomson/CentralCRM) | Customer relationship management| 
 | [BooksCloud](https://github.com/KylanThomson/BooksCloud) | bookkeeping| 
 | [MyInvoice](https://github.com/KylanThomson/MyInvoice) | Create, send, recieve, pay, invoice. Internal API for: booksCloud, and WalletCloud| 
 
-## 5. Saas #3
+## 5. Saas #3 Industry
 | App Name      | Description   | 
 | ------------- | ------------- | 
 | [MyRetail](https://github.com/KylanThomson/MyRetail) | Retail management| 
