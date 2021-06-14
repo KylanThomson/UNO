@@ -49,9 +49,3 @@ All tasks outlined in Stage 1 are critical to the building and maintenance of al
 | ------------- | ------------- | 
 | [WalletCloud](https://github.com/KylanThomson/WalletCloud) | Payment and payout methods. API with Stirpe/Paypal/Plaid | 
 
-## [Tasks](https://trello.com/b/Fr5kX9Tw/uno-stage-1)
-
-## [Diagram Utility](https://app.diagrams.net/)
-
-## [Timesheet](https://docs.google.com/spreadsheets/d/1KVrC4vcK2uRZ8MH8t7Wh9eKomcEXaPVqrJrL9MUeFaU/edit?usp=sharing)
-
