@@ -1,4 +1,4 @@
-| Fundamentals of Building a MDPS and Competitive Web Application |
+Fundamentals of Building a MDPS and Competitive Web Application
 - Design tokens
    - Design tokens are an agnostic way to store variables such as typography, color, and spacing so that they can be used across multiple platforms and multiple devices without all of the work
      - This is also EXTREMELY IMPORTANT AND USEFUL for when working with multiple apps WITHIN our platform - we can save these styles and spacing and replicate them within our plethora of different applications in uno
