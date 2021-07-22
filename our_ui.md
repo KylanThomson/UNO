@@ -1,0 +1,24 @@
+OUR UI:
+- myTasks features
+  - Groups
+    - Groups will all be within a singular organization, you can swap organizations within my tasks but on the sidebar where there are groups you will only be able to see the ones that are attached to the organization you’re currently in
+    - These groups will all have separate message boards and permissions, allowing companies to have separate groups for separate teams while also allowing people to be a part of multiple groups - useful for those managing multiple groups
+    - Groups can have an icon, a name, and unique permissions
+  - Cards
+    - Cards will appear on the myTasks dashboard as small sections containing a title
+    - Within this card, you will be able to click and read the card title, header, description, see an optional “tasks section”, comment, add attachments, and view all activity for the individual card
+      - Should think about other features regarding this - taken mostly from trello and other team scheduling and calendar apps… what would be useful to a business team here?
+  - Privileges
+    - Ideas:
+      - Privileges can control who can post cards, comment on cards, post attachments on cards, create groups within an organization, etc.
+      - Option for org administrators to disband group
+      - Administrators can change the group photo and edit the group permissions, adding other administrators if they please
+      - Administrators can create roles in the groups with specific permissions, we may or may not want to include default roles already implemented in the system (especially because there aren’t a TON of features within this application)
+      - Administrators should be able to change the background color, and also edit if photos should be visible on the cards dashboard view
+         - If admins can edit whether pictures should be able to be seen in cards, then we can think about putting an uploaded photo on a card as the preview photo by default
+   - Settings
+     - We need to think about settings
+     - Users can have individual preferences where they can edit the size of cards (and text?) to their own liking
+        - Possibly put background color in here, but also possibly leave that up to admin control - if this is the case, we may need to add a colorblind mode
+      - Dark mode
+      - Possibly edit profile photos? Unless we want to keep those consistent across uno
