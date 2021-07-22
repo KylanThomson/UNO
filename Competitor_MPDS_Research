@@ -1,0 +1,15 @@
+MULTI-PLATFORM DESIGN SYSTEMS:
+- Design systems, pros and cons
+  - Salesforce Lightning Design System
+    - Complex interface with heavily customizable, collaborative homepage
+    - Modules work hand-in-hand and can be used in conjunction with one another
+    - Transparent and user-oriented security features, allowing developers and other employees to have complete knowledge and control over who sees what in the collaborative interface
+    - User created automation for specific tasks within the system
+    - Creation of responsive business applications with little to no coding experience
+    - Con: convoluted and challenging to learn, we want to set Uno apart from this, making the UI simplified while still offering some customization and automation within the system
+    - TAKEAWAYS: Salesforce is definitely both the largest and most customizable design system. This is a design system we should compare with Uno, essentially building down from the top, taking a look at all the features, and finding the things we should remove/whittle down to successfully separate ourselves from the other design systems on the market.
+  - Shopify Polaris
+    - React component library that allows developers to have greater control over shopify design platform to help create a consistent UX for merchants to sell on
+  - Fluent UI React (Previously known as Office Fabric)
+    - Fluent UI React is a framework of customizable components from Microsoft that fit seamlessly into Microsoft products like SharePoint
+    
